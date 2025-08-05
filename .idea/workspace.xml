@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8de291f-9130-49e9-8237-4f2c8e493a4d" name="Default Changelist" comment="" />
+    <list default="true" id="f8de291f-9130-49e9-8237-4f2c8e493a4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c1/lesson1/FirstApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GB_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GB_Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="30pnyHcDUxlJKlP39LI74iNMS9M" />
@@ -18,8 +38,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="Educational" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FirstApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c1.lesson1.FirstApp" />
+      <module name="GB_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FirstApp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,9 +73,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="621" y="292" key="FileChooserDialogImpl" timestamp="1754333987149">
+    <state x="648" y="184" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1754338641333">
       <screen x="0" y="0" width="1680" height="1072" />
     </state>
-    <state x="621" y="292" key="FileChooserDialogImpl/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1754333987149" />
+    <state x="648" y="184" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1754338641333" />
+    <state x="621" y="292" key="FileChooserDialogImpl" timestamp="1754338469878">
+      <screen x="0" y="0" width="1680" height="1072" />
+    </state>
+    <state x="621" y="292" key="FileChooserDialogImpl/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1754338469878" />
+    <state width="1637" height="293" key="GridCell.Tab.0.bottom" timestamp="1754408707449">
+      <screen x="0" y="0" width="1680" height="1072" />
+    </state>
+    <state width="1637" height="293" key="GridCell.Tab.0.bottom/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1754408707449" />
+    <state width="1637" height="293" key="GridCell.Tab.0.center" timestamp="1754408707449">
+      <screen x="0" y="0" width="1680" height="1072" />
+    </state>
+    <state width="1637" height="293" key="GridCell.Tab.0.center/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1754408707449" />
+    <state width="1637" height="293" key="GridCell.Tab.0.left" timestamp="1754408707449">
+      <screen x="0" y="0" width="1680" height="1072" />
+    </state>
+    <state width="1637" height="293" key="GridCell.Tab.0.left/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1754408707449" />
+    <state width="1637" height="293" key="GridCell.Tab.0.right" timestamp="1754408707449">
+      <screen x="0" y="0" width="1680" height="1072" />
+    </state>
+    <state width="1637" height="293" key="GridCell.Tab.0.right/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1754408707449" />
+    <state x="321" y="111" key="SettingsEditor" timestamp="1754339314226">
+      <screen x="0" y="0" width="1680" height="1072" />
+    </state>
+    <state x="321" y="111" key="SettingsEditor/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1754339314226" />
+    <state x="503" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1754338747364">
+      <screen x="0" y="0" width="1680" height="1072" />
+    </state>
+    <state x="503" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1754338747364" />
   </component>
 </project>
