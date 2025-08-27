@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8de291f-9130-49e9-8237-4f2c8e493a4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/c1/lesson3/ArrayApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c1/lesson3/LogicApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c1/lesson3/StringApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c1/lesson3/TwoDimArrayApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/c1/lesson2/HW_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/c1/lesson2/HW_2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson1-2" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,13 +44,26 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="Application.HW_2">
-    <configuration name="CycleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c1.lesson2.CycleApp" />
+  <component name="RunManager" selected="Application.TwoDimArrayApp">
+    <configuration name="ArrayApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c1.lesson3.ArrayApp" />
       <module name="GB_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="c1.lesson2.*" />
+          <option name="PATTERN" value="c1.lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Arrk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c1.lesson3.Arrk" />
+      <module name="GB_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c1.lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,19 +84,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c1.lesson1.HW1" />
-      <module name="GB_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="c1.lesson1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HW_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="c1.lesson2.HW_2" />
       <module name="GB_Java" />
@@ -92,25 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c1.lesson2.SwitchApp" />
+    <configuration name="TwoDimArrayApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c1.lesson3.TwoDimArrayApp" />
       <module name="GB_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="c1.lesson2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WhileApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c1.lesson2.WhileApp" />
-      <module name="GB_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="c1.lesson2.*" />
+          <option name="PATTERN" value="c1.lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoDimArrayApp" />
+        <item itemvalue="Application.Arrk" />
+        <item itemvalue="Application.ArrayApp" />
         <item itemvalue="Application.HW_2" />
         <item itemvalue="Application.DemoApp" />
-        <item itemvalue="Application.WhileApp" />
-        <item itemvalue="Application.CycleApp" />
-        <item itemvalue="Application.SwitchApp" />
       </list>
     </recent_temporary>
   </component>
@@ -166,22 +158,22 @@
       <screen x="0" y="0" width="1680" height="1072" />
     </state>
     <state x="621" y="292" key="FileChooserDialogImpl/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1754338469878" />
-    <state width="1637" height="284" key="GridCell.Tab.0.bottom" timestamp="1755681611648">
+    <state width="1637" height="284" key="GridCell.Tab.0.bottom" timestamp="1756276825086">
       <screen x="0" y="0" width="1680" height="1072" />
     </state>
-    <state width="1637" height="284" key="GridCell.Tab.0.bottom/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1755681611648" />
-    <state width="1637" height="284" key="GridCell.Tab.0.center" timestamp="1755681611648">
+    <state width="1637" height="284" key="GridCell.Tab.0.bottom/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1756276825086" />
+    <state width="1637" height="284" key="GridCell.Tab.0.center" timestamp="1756276825086">
       <screen x="0" y="0" width="1680" height="1072" />
     </state>
-    <state width="1637" height="284" key="GridCell.Tab.0.center/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1755681611648" />
-    <state width="1637" height="284" key="GridCell.Tab.0.left" timestamp="1755681611648">
+    <state width="1637" height="284" key="GridCell.Tab.0.center/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1756276825086" />
+    <state width="1637" height="284" key="GridCell.Tab.0.left" timestamp="1756276825086">
       <screen x="0" y="0" width="1680" height="1072" />
     </state>
-    <state width="1637" height="284" key="GridCell.Tab.0.left/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1755681611648" />
-    <state width="1637" height="284" key="GridCell.Tab.0.right" timestamp="1755681611648">
+    <state width="1637" height="284" key="GridCell.Tab.0.left/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1756276825086" />
+    <state width="1637" height="284" key="GridCell.Tab.0.right" timestamp="1756276825086">
       <screen x="0" y="0" width="1680" height="1072" />
     </state>
-    <state width="1637" height="284" key="GridCell.Tab.0.right/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1755681611648" />
+    <state width="1637" height="284" key="GridCell.Tab.0.right/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1756276825086" />
     <state x="321" y="111" key="SettingsEditor" timestamp="1754339314226">
       <screen x="0" y="0" width="1680" height="1072" />
     </state>
@@ -190,13 +182,17 @@
       <screen x="0" y="0" width="1680" height="1072" />
     </state>
     <state x="433" y="258" key="Vcs.Push.Dialog.v2/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1754990022526" />
+    <state x="537" y="361" key="com.intellij.ide.util.TipDialog" timestamp="1755712230608">
+      <screen x="0" y="0" width="1680" height="1072" />
+    </state>
+    <state x="537" y="361" key="com.intellij.ide.util.TipDialog/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1755712230608" />
     <state x="497" y="249" key="run.anything.popup" timestamp="1755680732641">
       <screen x="0" y="0" width="1680" height="1072" />
     </state>
     <state x="497" y="249" key="run.anything.popup/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1755680732641" />
-    <state x="503" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1754338747364">
+    <state x="503" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1756276685854">
       <screen x="0" y="0" width="1680" height="1072" />
     </state>
-    <state x="503" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1754338747364" />
+    <state x="503" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1680.1072/-1920.0.1920.1032@0.0.1680.1072" timestamp="1756276685854" />
   </component>
 </project>
